@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoengageAsssignment</string>
+
+    <string-array name="sorting_options">
+        <item>Old to New</item>
+        <item>New to Old</item>
+    </string-array>
+</resources>

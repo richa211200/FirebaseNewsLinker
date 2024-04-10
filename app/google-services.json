@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488439814924",
+    "project_id": "cloudmessagingmoengage",
+    "storage_bucket": "cloudmessagingmoengage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488439814924:android:643ba64f3dbb74d4330729",
+        "android_client_info": {
+          "package_name": "com.richa.moengageasssignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcLyec-6UrMQh08ctD5_iPYklzmZTA0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
