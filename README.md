@@ -24,7 +24,7 @@ This repository contains the source code for a mobile application developed in K
 
 1. Clone the repository:
 
-- git clone: 
+- git clone https://github.com/richa211200/FirebaseNewsLinker.git
 
 2. Use Android Studio to view-edit-run-build source code:
 
