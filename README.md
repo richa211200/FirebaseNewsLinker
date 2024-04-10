@@ -5,6 +5,10 @@
 
 This repository contains the source code for a mobile application developed in Kotlin for Android devices. TThis Android application fetches news articles from a provided AWS linked API and allows users to view them within the app, Additionally System APIs are used for fetching data without relying on any third-party libraries like Retrofit. It also integrates Firebase Cloud Messaging (FCM) to receive and display notifications. The app features visually interactive design, custom fonts, icons, and sorting options for listing articles based on old-to-new or new-to-old.
 
+## Demo video
+
+[![Demo Video](http://img.youtube.com/vi/cW0j_5a99h0/0.jpg)](https://youtu.be/cW0j_5a99h0)
+
 ## Features
 
 - Fetches news article details from the provided API.
