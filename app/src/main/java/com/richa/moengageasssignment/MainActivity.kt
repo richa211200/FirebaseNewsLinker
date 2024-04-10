@@ -57,8 +57,8 @@ class MainActivity : AppCompatActivity() {
             ) {
                 // Handle sorting based on selected option
                 when (position) {
-                    0 -> articleAdapter.sortByOldToNew()
-                    1 -> articleAdapter.sortByNewToOld()
+                    0 -> articleAdapter.sortByNewToOld()
+                    1 -> articleAdapter.sortByOldToNew()
                 }
                 articleAdapter.notifyDataSetChanged()
             }
